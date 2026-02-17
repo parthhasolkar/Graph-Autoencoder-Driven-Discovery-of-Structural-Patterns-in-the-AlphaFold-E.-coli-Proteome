@@ -22,7 +22,7 @@ This project proposes a scalable, alignment-free framework using:
 
 ## Proposed Framework
 
-![Pipeline](assets/pipeline.png)
+![Pipeline](assets/pipeline1.png)
 
 Pipeline stages:
 
