@@ -87,7 +87,7 @@ python src/evaluation.py
 ## 📄 Paper
 
 Full paper available in:
-paper/FInal Paper.pdf
+paper/Final Paper.pdf
 
 
 ---
