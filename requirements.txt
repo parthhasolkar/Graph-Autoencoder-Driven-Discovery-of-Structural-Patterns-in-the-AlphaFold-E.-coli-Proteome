@@ -1,0 +1,10 @@
+biopython
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+torch
+torch-geometric
+umap-learn
+tqdm
