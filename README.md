@@ -1,0 +1,1 @@
+# Graph-Autoencoder-Driven-Discovery-of-Structural-Patterns-in-the-AlphaFold-E.-coli-Proteome
